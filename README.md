@@ -13,5 +13,5 @@ Install python packages with pip command in terminal or Command prompt
 To run tests, run the following command in the terminal.
 
 ```bash
-   python ytd.py
+  python ytd.py
 ```
